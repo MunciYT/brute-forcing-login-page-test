@@ -1,0 +1,7 @@
+name = "login-test"
+compatibility_date = "2024-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "accounts"
+database_id = "b5b4bde2-ec1f-46d5-8077-7fb6180883dc"
